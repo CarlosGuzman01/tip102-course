@@ -1,4 +1,5 @@
 '''
+section 1
 You are given a string s that consists of lowercase English letters representing animal names or slogans and brackets. The goal is to rearrange the animal names or slogans in each pair of matching parentheses by reversing them, starting from the innermost pair.
 
 After processing, your result should not contain any brackets.

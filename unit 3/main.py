@@ -1,4 +1,5 @@
 '''
+section 1
 
 Problem 1: Extra Treats
 In a pet adoption center, there are two groups of volunteers: the "Cat Lovers" and the "Dog Lovers."
